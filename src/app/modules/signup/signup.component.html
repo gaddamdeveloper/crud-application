@@ -1,0 +1,25 @@
+{{signUpForm.value | json}}
+
+<div class="container w-25 mt-5 bg-light">
+    <h1 style="color: green;">SignUp Form</h1>
+    <form [formGroup]="signUpForm" (ngSubmit)="onSubmit()" >
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">FristName</label>
+            <input type="text" class="form-control" formControlName="FristName" id="exampleInputEmail1" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+                        <label for="exampleInputEmail1" class="form-label">LastName</label>
+            <input type="text" class="form-control" formControlName="LastName" id="exampleInputEmail1" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <input type="email" class="form-control" formControlName="email" id="email">
+                </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input type="password" class="form-control" formControlName="password" id="exampleInputPassword1">
+        </div>
+        <button type="submit" class="btn btn-success w-100">Submit</button>
+    </form>
+    </div>
+

@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "FristName": "yelavarthipremsai@gmail.com",
+      "LastName": "yelavarthipremsai@gmail.com",
+      "email": "yelavarthipremsai@gmail.com",
+      "password": "122656564",
+      "id": 4
+    },
+    {
+      "FristName": "vamshi",
+      "LastName": "gaddam",
+      "email": "vamshireddygaddam33@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "FristName": "naresh",
+      "LastName": "karra",
+      "email": "yelavarthipremsai@gmail.com",
+      "password": "nari@123",
+      "id": 6
+    },
+    {
+      "FristName": "prem",
+      "LastName": "yella",
+      "email": "yelavarthipremsai@gmail.com",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "FristName": "abhi",
+      "LastName": "gallipelli",
+      "email": "yelavarthipremsai@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "FristName": "gaddam",
+      "LastName": "sai",
+      "email": "sai@123",
+      "password": "1234",
+      "id": 11
+    },
+    {
+      "FristName": "anna",
+      "LastName": "sai",
+      "email": "sai@123",
+      "password": "12345",
+      "id": 12
+    },
+    {
+      "FristName": "vamshi",
+      "LastName": "gaddam",
+      "email": "vamshireddygaddam33@gmail.com",
+      "password": "123456",
+      "id": 13
+    }
+  ]
+}
